@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\download\directxgameproject\gamelib\src\03_2dgraphics2\nimotsukunimage\main.cpp(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'GameLib/Framework.h': No such file or directory
+  Image.cpp
+c:\download\directxgameproject\gamelib\src\03_2dgraphics2\nimotsukunimage\image.cpp(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'GameLib/Framework.h': No such file or directory
+  코드를 생성하고 있습니다...
